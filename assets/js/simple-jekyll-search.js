@@ -265,8 +265,9 @@ function compile (data) {
     resultsContainer: null,
     json: [],
     searchResultTemplate: '<li><a href="{url}" title="{desc}">{title}</a></li>',
+    // TODO change template to show particular questions not just the overall subject
     templateMiddleware: function () {},
-    noResultsText: 'No results found',
+    noResultsText: '<li><a href="" title="">No results found</a></li>',
     limit: 10,
     fuzzy: false,
     exclude: []
