@@ -1,6 +1,7 @@
 ---
-layout: null
+layout: 
 ---
+
 [
 	{% assign cc = 0 %}
 
