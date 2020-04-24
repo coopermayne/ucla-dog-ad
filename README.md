@@ -1,67 +1,15 @@
-See below
+# How this works
 
-# Jekyll | Help Center
-Simple and responsive Jekyll theme for help center.
+Code lives here on github. Admins can update posts and upload files on [Siteleaf][https://www.siteleaf.com/]
 
-# Demo
-[Demo online](https://gustavoquinalha.github.io/jekyll-help-center-theme/)
+Siteleaf will push changes to this repo. Any change to this repo will trigger a rebuild at [Netlify](https://app.netlify.com/).
 
-![Color Theme](http://quinalha.me/jekyll-help-center-theme/assets/img/readme/responsive.png)
+Static site is built in ~20sec. Site is currently [here](https://heuristic-mcclintock-265eb7.netlify.app/)
 
-# Color theme
-edit in _config.yml
-```
-color_theme:  "#0081ff"
-color_text:  "#fff"
-```
+# Content Management
 
-# Install
-```
-git clone https://github.com/gustavoquinalha/jekyll-help-center-theme
-```
-or
-```
-gem install jekyll-help-center-theme
-```
-https://rubygems.org/gems/jekyll-help-center-theme
+You only need to edit Posts...
 
-# How to use
-```
-bundle exec jekyll serve --livereload --watch
-```
-Server address
-```
-localhost:4000/jekyll-help-center-theme/
-```
+To add images you just use the image uploader included with Siteleaf CMS. But note that all images are optional to the layout.
 
-# Post Example
-```
----
-layout: post
-title: 'First category'
-description: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit.'
-date: 2017-11-12 17:46:41 -0300
-categories: start blog
-by: 'Gustavo Quinalha'
-icon: 'credit-card'
-questions:
-  - question: 'Question 1'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "1.gif"
-  - question: 'Question 2'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "2.gif"
-  - question: 'Question 3'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "3.gif"
-  - question: 'Question 4'
-    answer: 'Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.'
-    image: "4.gif"
----
-```
-## License
-The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
-
-# Inspired by
-- https://help.market.envato.com/hc/en-us
-- https://www.intercom.com/
+To find icons you can look through [feather icons](https://feathericons.com/). You can use any other these icons by simply referring to the icon name in the relevant Siteleaf sections.
