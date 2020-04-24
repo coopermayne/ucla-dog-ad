@@ -2,16 +2,28 @@
 layout: null
 ---
 [
+	{% assign cc = 0 %}
+
   {% for post in site.posts %}
+	{% assign dd = 0 %}
+
+	{% capture cc %}{{ cc | plus:1 }}{% endcapture %}
+
+  {% for question in post.questions %}
+	{% capture dd %}{{ dd | plus:1 }}{% endcapture %}
+
     {
       "title"       : "{{ post.title | escape }}",
       "description" : "{{ post.description }}",
       "date"        : "{{ post.date }}",
-      "categories"  : "{{ post.categories | array_to_sentence_string }}",
       "by"          : "{{ post.by }}",
-      "url"         : "{{ site.baseurl }}{{ post.url }}",
-      "icon"        : "{{ post.icon }}"
-
-    } {% unless forloop.last %},{% endunless %}
+      "url"         : "{{ site.baseurl }}{{ post.url }}#q{{dd}}",
+      "icon"        : "{{ post.icon }}",
+      "content"     : "{{ question.question }}",
+      "question"    : "{{ question.question }}",
+      "answer"      : "{{ question.answer }}"
+    },
   {% endfor %}
+  {% endfor %}
+  {}
 ]
