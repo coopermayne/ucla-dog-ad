@@ -8,6 +8,11 @@ collections:
   uploads:
     title: Uploads
     output: true
+defaults:
+- scope:
+    path: uploads
+  values:
+    image: true
 email: coopermayne@gmail.com
 description: Questions and Answer about LAAD
 baseurl: ''
@@ -23,10 +28,4 @@ gems:
 - jekyll-paginate
 paginate: 5
 plugins_dir:
-  - jekyll-admin
-
-defaults:
-  - scope:
-      path: "uploads"
-    values:
-      image: true
+- jekyll-admin
