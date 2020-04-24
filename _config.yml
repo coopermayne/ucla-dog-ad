@@ -24,9 +24,3 @@ gems:
 paginate: 5
 plugins_dir:
   - jekyll-admin
-
-defaults:
-  - scope:
-      path: "uploads"
-    values:
-      image: true
