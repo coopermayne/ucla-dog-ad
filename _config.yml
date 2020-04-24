@@ -11,9 +11,6 @@ collections:
 email: coopermayne@gmail.com
 description: Questions and Answer about LAAD
 baseurl: ''
-url: https://ucla-dog-adj.firebaseapp.com
-twitter_username: gustavoquinalha
-github_username: gustavoquinalha
 color_theme: "#0081ff"
 color_text: "#fff"
 language: en
