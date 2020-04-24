@@ -1,3 +1,4 @@
+---
 title: Preparing For a Hearing
 timezone: UTC
 collections:
@@ -27,4 +28,4 @@ gems:
 - jekyll-paginate
 paginate: 5
 plugins_dir:
-  - jekyll-admin
+- jekyll-admin
