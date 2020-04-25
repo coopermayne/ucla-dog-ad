@@ -1,11 +1,11 @@
 ---
 title: Preparing for a Hearing
-date: 2017-11-12 20:46:00 Z
+date: 2020-04-20 20:46:00 Z
 categories:
 - start
 - blog
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-by: UCLA staff
+by: Michael Greenberg
 icon: check-square
 questions:
 - question: Why am I being summoned for a hearing?
