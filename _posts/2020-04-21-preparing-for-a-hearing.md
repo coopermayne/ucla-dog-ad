@@ -14,7 +14,7 @@ questions:
     appear and testify at a hearing regarding the incident(s).  Per Los Angeles Municipal
     Code Section 53.34.4, the Department must conduct a hearing to determine whether
     the animal poses a threat to public safety.
-  image: "/uploads/source.gif"
+  image: "/uploads/dogs.jpg"
 - question: What is the purpose of the hearing?
   answer: The hearing is a semi-judicial proceeding – something of an informal trial.  It
     aims solely to gather evidence to ultimately determine whether the animal in question
