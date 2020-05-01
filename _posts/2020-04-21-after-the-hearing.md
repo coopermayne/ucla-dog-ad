@@ -10,9 +10,10 @@ questions:
   answer: Within 30 days (but typically sooner than that), you will be mailed a letter
     from the Department’s General Manager as to the outcome of the case.  A full copy
     of the Hearing Examiner’s report will also be enclosed.
-- question: What are Terms, Conditions, and Restrictions
-    from a hearing?
-  answer: This means that you keep your license to keep an own a dog or other animal in the City, subject to complying with the terms, conditions and restrictions the Department has ordered. See more information below. [link]
+- question: What are Terms, Conditions, and Restrictions from a hearing?
+  answer: This means that you keep your license to keep an own a dog or other animal
+    in the City, subject to complying with the terms, conditions and restrictions
+    the Department has ordered. See more information below. [link]
 - question: What happens if I do not comply with the TCR issued to me?
   answer: If you are alleged to be in violation of the TCR issued to you from a first
     hearing, the Department can request another administrative hearing.  The purpose
