@@ -2,8 +2,7 @@
 title: After the Hearing
 date: 2020-04-21 20:46:00 Z
 order: 3
-description: Everything you need to know after your hearing has happened. deserunt
-  mollit anim id est laborum.
+description: Everything you need to know after your hearing has happened.
 by: Taimie Bryant
 icon: help-circle
 questions:
