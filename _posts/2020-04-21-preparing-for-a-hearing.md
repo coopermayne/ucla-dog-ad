@@ -14,7 +14,6 @@ questions:
     appear and testify at a hearing regarding the incident(s).  Per Los Angeles Municipal
     Code Section 53.34.4, the Department must conduct a hearing to determine whether
     the animal poses a threat to public safety.
-  image: "/uploads/dogs.jpg"
 - question: What is the purpose of the hearing?
   answer: The hearing is a semi-judicial proceeding – something of an informal trial.  It
     aims solely to gather evidence to ultimately determine whether the animal in question
@@ -30,6 +29,7 @@ questions:
     221 N. Figueroa St., Suite 600, Los Angeles, CA 90012.  Suite 600 is on the 6th
     floor.  Plan to arrive 15 minutes in advance of your hearing time to allow time
     to check-in with Department staff.'
+  image: "/uploads/Screen%20Shot%202020-04-30%20at%207.00.46%20PM.png"
 - question: Where should I park?
   answer: |-
     Parking is available in the building’s garage for a $28 daily max.  This garage is at the back of the building; to access it via GPS, navigate to 250 N. Fremont Ave.
