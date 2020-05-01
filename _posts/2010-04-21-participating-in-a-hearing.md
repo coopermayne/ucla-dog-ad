@@ -18,26 +18,21 @@ questions:
   answer: Yes. Additional documents, photographs, or videos can be submitted as evidence
     during the hearing if they are relevant to the incident(s). [More info](#submitting-new-evidence-during-hearing)
 - question: Is my attorney allowed to come?
-  answer: 'Attorneys are allowed, but certainly not required.
-
-'
+  answer: 'Attorneys are allowed, but certainly not required.'
 - question: Are language interpreters provided?
-  answer: |
+  answer: >-
     Yes.
-
     It is most helpful to contact the Department in advance to request one. [link to contact info]
 - question: What happens after the hearing?
-  answer: |
+  answer: >-
     The Hearing Examiner takes in all of the evidence from the hearing – including the sworn testimony of those who testified at the hearing and any documents submitted.  He or she then writes a report to the General Manager of the Department.  The report summarizes the evidence collected and recommends what the outcome of the case should be.
-
     [[Click here]] to read more about the possible outcomes of a Hearing
 - question: How does the Department determine what the outcome of the case should
     be?
-  answer: 'The Hearing Examiner must apply the evidence presented during the hearing
+  answer: >-
+    The Hearing Examiner must apply the evidence presented during the hearing
     to the 11 factors listed in LAMC Section 53.34.4(c). Read more about the factors
     [[here]]
-
-'
 layout: post
 ---
 
@@ -45,7 +40,7 @@ layout: post
 
 The hearing is conducted by a Hearing Examiner appointed by the General Manager of the Department.  The Hearing Examiner will begin by reading an opening statement informing the parties of the procedures for the hearing and basic terminology.  The Examiner will also administer an oath to everyone present who intends to testify.  All testimony given must be the truth; lying while under oath is perjury, a criminal offense.  For the hearing, the alleged victim is referred to as the “Complaining Witness” and the animal owner is referred to as the “Respondent.”
 
-The Examiner will then begin asking questions to the Complaining Witness.  Some of the questions the Hearing Examiner asks will be based upon a document called “Exhibit 1.”  Exhibit 1 is a summary of the preliminary investigation of the incident conducted by a Department Animal Control Officer.  (Animal owners should receive an advance copy of Exhibit 1 in the mail with their summons.  If you are a Respondent in an upcoming hearing and did not receive a copy of Exhibit 1, YOU CAN REQUEST ONE HERE.  The Complaining Witness may also submit any additional relevant photographs or documents during this time.  Finally, the Respondent will have an opportunity to cross-examine the Complaining Witness. 
+The Examiner will then begin asking questions to the Complaining Witness.  Some of the questions the Hearing Examiner asks will be based upon a document called “Exhibit 1.”  Exhibit 1 is a summary of the preliminary investigation of the incident conducted by a Department Animal Control Officer.  (Animal owners should receive an advance copy of Exhibit 1 in the mail with their summons.  If you are a Respondent in an upcoming hearing and did not receive a copy of Exhibit 1, YOU CAN REQUEST ONE HERE.  The Complaining Witness may also submit any additional relevant photographs or documents during this time.  Finally, the Respondent will have an opportunity to cross-examine the Complaining Witness.
 
 This process will be repeated with any additional witnesses who plan to testify on behalf of the Complaining Witness.  Finally, the Hearing Examiner will ask questions of the Respondent, and the Complaining Witness will have an opportunity to cross-examine them afterward.  The process will be repeated for any additional witnesses who plan to testify on behalf of the Respondent.   Because the Respondent and their animal are presumed innocent until proven otherwise, the Respondent may choose not to testify at all if they feel that insufficient evidence has been presented against them.
 
@@ -75,7 +70,6 @@ The Hearing Examiner must apply the evidence presented during the hearing to the
 10. Any other relevant evidence concerning the maintenance of the dog or other animal;
 11. Any other relevant evidence regarding the ability of the owner or custodian, or the Department, to protect the public safety in the future if the dog or other animal is permitted to remain in the City.
 
-'
 # Possible Outcomes of a Hearing
 
 In accordance with Los Angeles Municipal Code 53.34.4, the Hearing Examiner can recommend to the General Manager one of four possible outcomes:

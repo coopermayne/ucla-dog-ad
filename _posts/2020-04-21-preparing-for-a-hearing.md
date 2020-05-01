@@ -22,19 +22,16 @@ questions:
     damages or other matters that would be reserved for civil litigation.  The hearing
     is a public proceeding – anyone may attend and the audio of the proceedings is
     recorded.
-  image: 
+  image:
 - question: Where and when are hearings held?
-  answer: 'The date and time of your hearing should be listed on your summons.  All
+  answer: >-
+    The date and time of your hearing should be listed on your summons.  All
     hearings are held downtown at the Department of Animal Services Headquarters:
     221 N. Figueroa St., Suite 600, Los Angeles, CA 90012.  Suite 600 is on the 6th
     floor.  Plan to arrive 15 minutes in advance of your hearing time to allow time
-    to check-in with Department staff.'
+    to check-in with Department staff.
 - question: Where should I park?
-  answer: |-
-    Parking is available in the building’s garage for a $28 daily max.  This garage is at the back of the building; to access it via GPS, navigate to 250 N. Fremont Ave.
-
-    More inexpensive parking options may be available nearby.  Additional garages within a short walk can be found at 717 W Temple St, or 123 S. Figueroa St. (Promenade Towers).  Metered street parking is also available in the area.
+  answer: Parking is available in the building’s garage for a $28 daily max.  This garage is at the back of the building; to access it via GPS, navigate to 250 N. Fremont Ave.  More inexpensive parking options may be available nearby.  Additional garages within a short walk can be found at 717 W Temple St, or 123 S. Figueroa St. (Promenade Towers).  Metered street parking is also available in the area.
   image: "/uploads/3.gif"
 layout: post
 ---
-
