@@ -18,19 +18,19 @@ questions:
   answer: Yes. Additional documents, photographs, or videos can be submitted as evidence
     during the hearing if they are relevant to the incident(s). [More info](#submitting-new-evidence-during-hearing)
 - question: Is my attorney allowed to come?
-  answer: 'Attorneys are allowed, but certainly not required.'
+  answer: Attorneys are allowed, but certainly not required.
 - question: Are language interpreters provided?
-  answer: >-
-    Yes.
-    It is most helpful to contact the Department in advance to request one. [link to contact info]
+  answer: Yes. It is most helpful to contact the Department in advance to request
+    one. [link to contact info]
 - question: What happens after the hearing?
-  answer: >-
-    The Hearing Examiner takes in all of the evidence from the hearing – including the sworn testimony of those who testified at the hearing and any documents submitted.  He or she then writes a report to the General Manager of the Department.  The report summarizes the evidence collected and recommends what the outcome of the case should be.
-    [[Click here]] to read more about the possible outcomes of a Hearing
+  answer: The Hearing Examiner takes in all of the evidence from the hearing – including
+    the sworn testimony of those who testified at the hearing and any documents submitted.  He
+    or she then writes a report to the General Manager of the Department.  The report
+    summarizes the evidence collected and recommends what the outcome of the case
+    should be. [[Click here]] to read more about the possible outcomes of a Hearing
 - question: How does the Department determine what the outcome of the case should
     be?
-  answer: >-
-    The Hearing Examiner must apply the evidence presented during the hearing
+  answer: The Hearing Examiner must apply the evidence presented during the hearing
     to the 11 factors listed in LAMC Section 53.34.4(c). Read more about the factors
     [[here]]
 layout: post
