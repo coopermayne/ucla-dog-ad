@@ -10,9 +10,10 @@ questions:
   answer: Within 30 days (but typically sooner than that), you will be mailed a letter
     from the Department’s General Manager as to the outcome of the case.  A full copy
     of the Hearing Examiner’s report will also be enclosed.
-- question: What are Terms, Conditions, and Restrictions
-    from a hearing?
-  answer: This means that you keep your license to keep an own a dog or other animal in the City, subject to complying with the terms, conditions and restrictions the Department has ordered. See more information below. [link]
+- question: What are Terms, Conditions, and Restrictions from a hearing?
+  answer: This means that you keep your license to keep an own a dog or other animal
+    in the City, subject to complying with the terms, conditions and restrictions
+    the Department has ordered. See more information below. [link]
 - question: What happens if I do not comply with the TCR issued to me?
   answer: If you are alleged to be in violation of the TCR issued to you from a first
     hearing, the Department can request another administrative hearing.  The purpose
@@ -42,18 +43,27 @@ layout: post
 ---
 
 # Terms, Conditions, and Restrictions
+
 This means that you keep your license to keep an own a dog or other animal in the City, subject to complying with the terms, conditions and restrictions the Department has ordered.
+
+> Something else
 
 “Terms, Conditions or Restrictions” (TCR) are authorized by Section 53.34.4(e)(2) of Los Angeles Municipal Code.  The Department issues TCR after a hearing determined your animal was not “dangerous.”  The Department also determined that you were “able and willing to properly train, handle or maintain the . . . animal and a similar incident is not likely to occur in the future with proper training, handling, or maintenance.”
 
 Common TCR may include, but are not limited to, requirements that you:
-- Post warning signs (or additional signs) on entrances to your property.
-- Make changes to fencing, gates, etc. of your property to better confine your animal, and allow for a post-hearing inspection of the animal’s confinement on your property.
-- Obtain additional behavior training.
-- Utilize certain types or methods of restraining or muzzling your animal.
-- Not transfer custody or ownership of your animal without the express consent of the Department’s General Manager.
-- Maintain a minimum amount of liability insurance.
-Obtain and pay the fee for a Restricted Dog permit.
+
+* Post warning signs (or additional signs) on entrances to your property.
+
+* Make changes to fencing, gates, etc. of your property to better confine your animal, and allow for a post-hearing inspection of the animal’s confinement on your property.
+
+* Obtain additional behavior training.
+
+* Utilize certain types or methods of restraining or muzzling your animal.
+
+* Not transfer custody or ownership of your animal without the express consent of the Department’s General Manager.
+
+* Maintain a minimum amount of liability insurance.
+  Obtain and pay the fee for a Restricted Dog permit.
 
 # Appeal Procedure
 
@@ -61,4 +71,5 @@ When the Department mails its notice of the outcome of the case, an appeal form 
 Bear in mind there are only two reasons that can be the basis for an appeal:
 
 1. You believe the decision is not supported by the evidence presented in the case, or
+
 2. The hearing was not conducted in accordance with the law regarding the hearing process (the text of that law, Los Angeles Municipal Code Section 53.18.5, can be found [HERE](http://library.amlegal.com/nxt/gateway.dll/California/lamc/municipalcode/chaptervpublicsafetyandprotection/article3animalsandfowls?f=templates$fn=default.htm$3.0$vid=amlegal:losangeles_ca_mc$anc=JD_53.18.5.).
