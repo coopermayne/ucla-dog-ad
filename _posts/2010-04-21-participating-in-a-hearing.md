@@ -13,7 +13,7 @@ questions:
     are typically not afforded weight by Hearing Examiners since such statements do
     not give the opposing party the opportunity to cross-examine that witness.  This
     is especially true when the statement is not a sworn declaration under penalty
-    of perjury.
+    of perjury. [[test link]](/after-the-hearing/)
 - question: Can I submit additional evidence to the Hearing Examiner during the hearing?
   answer: Yes. Additional documents, photographs, or videos can be submitted as evidence
     during the hearing if they are relevant to the incident(s). [More info](#submitting-new-evidence-during-hearing)
