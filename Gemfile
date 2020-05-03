@@ -1,5 +1,8 @@
 source 'http://rubygems.org'
 
+gem 'prismic.io', require: 'prismic'
+gem 'byebug'
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-admin'
