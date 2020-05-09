@@ -46,9 +46,7 @@ layout: post
 
 This means that you keep your license to keep an own a dog or other animal in the City, subject to complying with the terms, conditions and restrictions the Department has ordered.
 
-> Something else
-
-“Terms, Conditions or Restrictions” (TCR) are authorized by Section 53.34.4(e)(2) of Los Angeles Municipal Code.  The Department issues TCR after a hearing determined your animal was not “dangerous.”  The Department also determined that you were “able and willing to properly train, handle or maintain the . . . animal and a similar incident is not likely to occur in the future with proper training, handling, or maintenance.”
+> “Terms, Conditions or Restrictions” (TCR) are authorized by Section 53.34.4(e)(2) of Los Angeles Municipal Code.  The Department issues TCR after a hearing determined your animal was not “dangerous.”  The Department also determined that you were “able and willing to properly train, handle or maintain the . . . animal and a similar incident is not likely to occur in the future with proper training, handling, or maintenance.”
 
 Common TCR may include, but are not limited to, requirements that you:
 
