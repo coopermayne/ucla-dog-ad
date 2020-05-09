@@ -9,6 +9,7 @@ collections:
     - question: 
     - answer text: 
     - image: 
+    author: test
   posts:
     title: Posts
     output: true
