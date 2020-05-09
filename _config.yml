@@ -5,7 +5,7 @@ collections:
   faqs:
     title: FAQs
     output: true
-    Question:
+    Questions:
     - question: 
     - answer text: 
     - image: 
