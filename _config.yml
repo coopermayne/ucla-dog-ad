@@ -5,6 +5,10 @@ collections:
   faqs:
     title: FAQs
     output: true
+    Question:
+    - question: 
+    - answer text: 
+    - image: 
   posts:
     title: Posts
     output: true
