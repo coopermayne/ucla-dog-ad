@@ -5,11 +5,11 @@ collections:
   faqs:
     title: FAQs
     output: true
+    author: test
     Questions:
     - question: 
-    - answer text: 
-    - image: 
-    author: test
+      answer text: 
+      image: 
   posts:
     title: Posts
     output: true
