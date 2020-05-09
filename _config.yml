@@ -2,6 +2,9 @@
 title: Preparing For a Hearing
 timezone: UTC
 collections:
+  faqs:
+    title: FAQs
+    output: true
   posts:
     title: Posts
     output: true
